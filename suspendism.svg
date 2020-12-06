@@ -6,9 +6,9 @@
  <style>
   .line {
    fill:none;
-   stroke:#FFFFFF;
+   stroke:#000000;
    stroke-width:1;
-   stroke-opacity:1.0;
+   stroke-opacity:1;
    stroke-linejoin:round;
   }
  </style>
