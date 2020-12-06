@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+ width="auto" height="2em"
+ viewBox="0 0 80 80">
+ <style>
+  .line {
+   fill:none;
+   stroke:#FFFFFF;
+   stroke-width:1;
+   stroke-opacity:1.0;
+   stroke-linejoin:round;
+  }
+ </style>
+ <path class="line"
+  d="M35,12q0,-6,5,-6q5,0,5,6q0,4,-2,7q-1,1,-1,2q0,1,1,2l4,1q4,0,4,4l2,18q4,2,4,5q0,5,-12,5h-10q-12,0,-12,-5q0,-3,4,-5l2,-18q0,-4,4,-4l4,-1q1,-1,1,-2q0,-1,-1,-2q-2,-3,-2,-7z"/>
+ <text y="72" x="5%" textLength="90%" lengthAdjust="spacingAndGlyphs"
+  class="line" font-size="smaller">ΣΥΣΠΕΝΔΙΣΜ</text>
+</svg>
