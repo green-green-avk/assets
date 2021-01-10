@@ -23,5 +23,5 @@
  <path class="line"
   d="M34,26l8,20M46,26l-6,15M27,48q8,0,16,6m-7,-4q12,-2,17,-2"/>
  <text y="72" x="8" textLength="64" lengthAdjust="spacingAndGlyphs"
-  class="line bg" font-size="smaller">ΣΥΣΠΕΝΔΙΣΜ</text>
+  class="line bg" font-size="14">ΣΥΣΠΕΝΔΙΣΜ</text>
 </svg>
